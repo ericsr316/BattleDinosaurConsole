@@ -21,3 +21,5 @@ include a class called **Attack**. Each dinosaur has 4 attacks.
 Just type a number between 1 and 4 and you hurt you oppnent and good luck 
 
 ![imagen](https://media.discordapp.net/attachments/842125134218395703/842142539540987914/unknown.png)
+
+Probably this still has issues but i expect fix all soon
