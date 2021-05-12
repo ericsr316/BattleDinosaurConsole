@@ -11,11 +11,12 @@ You a lot of dinosaurs that you can choose to fight with them.
 This is like a pokemon battle you have four attacks and each attack has a number of damage,
 but the game will run until your dinosaur's life be 0.
 
-## The Dinosaurs
+## Dinosaurs
 
 ![imagen](https://cdn.discordapp.com/attachments/842125134218395703/842128910128382012/unknown.png)
 
-You can choose each 13 dinosaurs, each dinosaur is and object of the class **Dinosaur** that this one 
+You can choose whatever dinosaur what do you want! 
+ There are about 13 dinosaurs, each dinosaur is and object of the class **Dinosaur** that this one 
 include a class called **Attack**. Each dinosaur has 4 attacks.
 
 Just type a number between 1 and 4 and you hurt you oppnent and good luck 
