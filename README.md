@@ -22,4 +22,4 @@ Just type a number between 1 and 4 and you hurt you oppnent and good luck
 
 ![imagen](https://media.discordapp.net/attachments/842125134218395703/842142539540987914/unknown.png)
 
-Probably this still has issues but i expect fix all soon
+Probably this still has issues but I expect fix all soon
